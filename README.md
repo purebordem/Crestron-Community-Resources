@@ -38,6 +38,7 @@ A collection of freely available community generated resources for working with 
 
 ### Videos
 * [CH5 Zero to Hero](https://www.youtube.com/watch?v=yLsk4NZ5ZYc&t)
+* [CH5 Basic Walkthrough](https://www.youtube.com/watch?v=RphhQH5DOYo)
 
 ## Scripting
 
