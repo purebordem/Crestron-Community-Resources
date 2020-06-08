@@ -3,7 +3,7 @@ A collection of freely available community generated resources for working with 
 
 ---
 
-Think there is something that should be on here? Create a New Issue with the relevant information and we will get it added!
+*Think there is something that should be on here? Create a [new issue](https://github.com/purebordem/Crestron-Community-Resources/issues) with the relevant information and we will get it added!*
 
 ## Control System
 ### Frameworks/Templates
