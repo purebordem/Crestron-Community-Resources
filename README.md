@@ -37,6 +37,7 @@ A collection of freely available community generated resources for working with 
   * This example shows very basic usage of the Crestron Com Package with Vanilla JS
 
 ### Videos
+* [CH5 Zero to Hero](https://www.youtube.com/watch?v=yLsk4NZ5ZYc&t)
 
 ## Scripting
 
