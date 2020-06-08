@@ -20,6 +20,19 @@ A collection of freely available community generated resources for working with 
 * [Create-React-App-Template-CH5-Typescript](https://github.com/avspltd/cra-template-ch5-typescript)
   * TypeScript template for Create React App and Crestron CH5
 ### Examples
+#### CH5 Framework
+* [Basic CH5 #1](https://github.com/Mirage-AV/Crestron-CH5-Basic)
+  * Just has a couple of buttons that show a couple of sub pages
+* [Basic CH5 #2](https://github.com/Mirage-AV/Crestron-CH5-Basic-Buttons-Pages)
+  * Basic CH5 project with selection buttons and triggerviews 
+* [CH5-Keypad](https://github.com/Mirage-AV/CH5-Keypad)  
+  * Crestron Neo style keypad in CH5
+* [CH5-DPad](https://github.com/Mirage-AV/CH5-DPad)
+  * Crestron CH5 Neo style DPad
+* [CH5-Discovery-Style](https://github.com/Mirage-AV/CH5-Discovery-Style)
+  * Basic CH5 project with a similar style to Star Trek: Discovery ship UI
+  
+#### Vainlla JS
 * [Basic CH5 with Vanilla JS](https://github.com/CloudDrivenSolutions/CH5-Basic)
   * This example shows very basic usage of the Crestron Com Package with Vanilla JS
 
