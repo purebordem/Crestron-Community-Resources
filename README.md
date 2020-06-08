@@ -20,6 +20,9 @@ A collection of freely available community generated resources for working with 
 * [Create-React-App-Template-CH5-Typescript](https://github.com/avspltd/cra-template-ch5-typescript)
   * TypeScript template for Create React App and Crestron CH5
 ### Examples
+* [Basic CH5 with Vanilla JS](https://github.com/CloudDrivenSolutions/CH5-Basic)
+  * This example shows very basic usage of the Crestron Com Package with Vanilla JS
+
 ### Videos
 
 ## Scripting
