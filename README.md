@@ -1,6 +1,10 @@
 # Crestron-Community-Resources
 A collection of freely available community generated resources for working with Crestron systems
 
+---
+
+*Think there is something that should be on here? Create a New Issue with the relevant information and we will get it added!
+
 ## Control System
 ### Frameworks/Templates
 * [PepperDash Essentials Application Framework](https://github.com/PepperDash/Essentials)
