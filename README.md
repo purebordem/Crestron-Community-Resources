@@ -3,7 +3,7 @@ A collection of freely available community generated resources for working with 
 
 ---
 
-*Think there is something that should be on here? Create a New Issue with the relevant information and we will get it added!
+Think there is something that should be on here? Create a New Issue with the relevant information and we will get it added!
 
 ## Control System
 ### Frameworks/Templates
