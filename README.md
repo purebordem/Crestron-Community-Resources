@@ -9,7 +9,10 @@ A collection of freely available community generated resources for working with 
 ### Frameworks/Templates
 * [PepperDash Essentials Application Framework](https://github.com/PepperDash/Essentials)
   * Open source Crestron framework that can be configured as a standalone program capable of running a wide variety of system designs
-  
+
+### Libraries
+* [CrestronHelperLibraries](https://github.com/alvaroyurrita/CrestronHelperLibraries)
+  * A list of Helper Libraries to facilitate the transition from SIMP to SIMPL#Pro
 ### Examples
 ### Videos
 
