@@ -49,5 +49,6 @@ A collection of freely available community generated resources for working with 
 ## Scripting
 
 ## Tools
+* [Super Basic CH5 Component Tester](https://repl.it/@purebordem/Crestron-CH5-Tester)
 
 ## Useful Resources
