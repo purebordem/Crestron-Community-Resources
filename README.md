@@ -52,3 +52,6 @@ A collection of freely available community generated resources for working with 
 * [Super Basic CH5 Component Tester](https://repl.it/@purebordem/Crestron-CH5-Tester)
 
 ## Useful Resources
+### Community Chat
+* [Crestron Professionals Discord](https://discord.gg/VU4xT9j)
+* [Crestron Programmers Slack](https://crestron-programmers.slack.com)
