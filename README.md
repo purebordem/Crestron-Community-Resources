@@ -14,6 +14,8 @@ A collection of freely available community generated resources for working with 
 * [CrestronHelperLibraries](https://github.com/alvaroyurrita/CrestronHelperLibraries)
   * A list of Helper Libraries to facilitate the transition from SIMP to SIMPL#Pro
 ### Examples
+* [Sample GitIgnore File](https://github.com/ninjaoxygen/gitignore/blob/master/crestron.gitignore)
+  * Reference GitIgnore File to ease transition to Git for Crestron control systems
 ### Videos
 
 ## Front-End
