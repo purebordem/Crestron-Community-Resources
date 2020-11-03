@@ -33,6 +33,8 @@ A collection of freely available community generated resources for working with 
   * Just has a couple of buttons that show a couple of sub pages
 * [Basic CH5 #2](https://github.com/Mirage-AV/Crestron-CH5-Basic-Buttons-Pages)
   * Basic CH5 project with selection buttons and triggerviews 
+* [Angular with CrComLib](https://github.com/jeff-vogt/crcomlib-ng)
+  * Crestron's CrComLib with Angular
 * [CH5-Keypad](https://github.com/Mirage-AV/CH5-Keypad)  
   * Crestron Neo style keypad in CH5
 * [CH5-DPad](https://github.com/Mirage-AV/CH5-DPad)
