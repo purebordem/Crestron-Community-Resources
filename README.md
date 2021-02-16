@@ -35,6 +35,8 @@ A collection of freely available community generated resources for working with 
   * Basic CH5 project with selection buttons and triggerviews 
 * [Angular with CrComLib](https://github.com/jeff-vogt/crcomlib-ng)
   * Crestron's CrComLib with Angular
+* [Questron-CH5](https://github.com/danelewis/Questron-Ch5)
+  * CH5 using the Quasar Component Framework (based on Vue.js)
 * [CH5-Keypad](https://github.com/Mirage-AV/CH5-Keypad)  
   * Crestron Neo style keypad in CH5
 * [CH5-DPad](https://github.com/Mirage-AV/CH5-DPad)
