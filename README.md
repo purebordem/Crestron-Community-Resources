@@ -28,6 +28,9 @@ A collection of freely available community generated resources for working with 
   * Project starter for VueJS + Crestron Ch5 with Vue Router and Vuex
  
 ### Examples
+#### Simpl#Pro
+* [Simpl#Pro Primer](https://kielthecoder.com/tag/primer/)
+  * Multi-blog series on getting stared with Simpl#Pro 
 #### CH5 Framework
 * [Basic CH5 #1](https://github.com/Mirage-AV/Crestron-CH5-Basic)
   * Just has a couple of buttons that show a couple of sub pages
@@ -43,6 +46,8 @@ A collection of freely available community generated resources for working with 
   * Crestron CH5 Neo style DPad
 * [CH5-Discovery-Style](https://github.com/Mirage-AV/CH5-Discovery-Style)
   * Basic CH5 project with a similar style to Star Trek: Discovery ship UI
+* [Full CH5 Project](https://kielthecoder.com/2021/03/03/ch5-full-project/#more-2318)
+  * Full walkthrough project using CH5
   
 #### Vainlla JS
 * [Basic CH5 with Vanilla JS](https://github.com/CloudDrivenSolutions/CH5-Basic)
@@ -61,3 +66,5 @@ A collection of freely available community generated resources for working with 
 ### Community Chat
 * [Crestron Professionals Discord](https://discord.gg/VU4xT9j)
 * [Crestron Programmers Slack](https://crestron-programmers.slack.com)
+### Blogs
+* [Kiel The Coder Blog](https://kielthecoder.com/)
