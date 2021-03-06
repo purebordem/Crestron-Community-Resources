@@ -65,6 +65,5 @@ A collection of freely available community generated resources for working with 
 ## Useful Resources
 ### Community Chat
 * [Crestron Professionals Discord](https://discord.gg/VU4xT9j)
-* [Crestron Programmers Slack](https://crestron-programmers.slack.com)
 ### Blogs
 * [Kiel The Coder Blog](https://kielthecoder.com/)
