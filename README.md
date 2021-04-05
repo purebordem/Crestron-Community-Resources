@@ -9,13 +9,15 @@ A collection of freely available community generated resources for working with 
 ### Frameworks/Templates
 * [PepperDash Essentials Application Framework](https://github.com/PepperDash/Essentials)
   * Open source Crestron framework that can be configured as a standalone program capable of running a wide variety of system designs
-
 ### Libraries
 * [CrestronHelperLibraries](https://github.com/alvaroyurrita/CrestronHelperLibraries)
   * A list of Helper Libraries to facilitate the transition from SIMP to SIMPL#Pro
 ### Examples
 * [Sample GitIgnore File](https://github.com/ninjaoxygen/gitignore/blob/master/crestron.gitignore)
   * Reference GitIgnore File to ease transition to Git for Crestron control systems
+#### Simpl#Pro
+* [Simpl#Pro Primer](https://kielthecoder.com/tag/primer/)
+  * Multi-blog series on getting stared with Simpl#Pro 
 ### Videos
 
 ## Front-End
@@ -26,11 +28,11 @@ A collection of freely available community generated resources for working with 
   * TypeScript template for Create React App and Crestron CH5
 * [CH5-Vue](https://github.com/utroda/ch5-vue) 
   * Project starter for VueJS + Crestron Ch5 with Vue Router and Vuex
- 
+### Modules
+* [Crestron-Fonts](https://github.com/alvaroyurrita/Crestron-Fonts)
+  * SmartGraphics Theme Transport Icons turned into Vectorized Fonts. Can be infinitely enlarged, rotated, colored, animated etc. using CSS styles.
+
 ### Examples
-#### Simpl#Pro
-* [Simpl#Pro Primer](https://kielthecoder.com/tag/primer/)
-  * Multi-blog series on getting stared with Simpl#Pro 
 #### CH5 Framework
 * [Basic CH5 #1](https://github.com/Mirage-AV/Crestron-CH5-Basic)
   * Just has a couple of buttons that show a couple of sub pages
@@ -49,7 +51,7 @@ A collection of freely available community generated resources for working with 
 * [Full CH5 Project](https://kielthecoder.com/2021/03/03/ch5-full-project/#more-2318)
   * Full walkthrough project using CH5
   
-#### Vainlla JS
+#### Vanilla JS
 * [Basic CH5 with Vanilla JS](https://github.com/CloudDrivenSolutions/CH5-Basic)
   * This example shows very basic usage of the Crestron Com Package with Vanilla JS
 
