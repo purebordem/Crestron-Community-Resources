@@ -28,6 +28,8 @@ A collection of freely available community generated resources for working with 
   * TypeScript template for Create React App and Crestron CH5
 * [CH5-Vue](https://github.com/utroda/ch5-vue) 
   * Project starter for VueJS + Crestron Ch5 with Vue Router and Vuex
+* [CH5xWeb-Vue](https://github.com/jvallon/ch5-vue-demo)
+  * Project starting point/demo for VueJS + CHrestron CH5
 ### Modules
 * [Crestron-Fonts](https://github.com/alvaroyurrita/Crestron-Fonts)
   * SmartGraphics Theme Transport Icons turned into Vectorized Fonts. Can be infinitely enlarged, rotated, colored, animated etc. using CSS styles.
