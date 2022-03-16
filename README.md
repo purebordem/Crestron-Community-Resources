@@ -29,19 +29,22 @@ A collection of freely available community generated resources for working with 
 * [CH5-Vue](https://github.com/utroda/ch5-vue) 
   * Project starter for VueJS + Crestron Ch5 with Vue Router and Vuex
 * [CH5xWeb-Vue](https://github.com/jvallon/ch5-vue-demo)
-  * Project starting point/demo for VueJS + CHrestron CH5
+  * Project starting point/demo for VueJS + Crestron CH5
 ### Modules
 * [Crestron-Fonts](https://github.com/alvaroyurrita/Crestron-Fonts)
   * SmartGraphics Theme Transport Icons turned into Vectorized Fonts. Can be infinitely enlarged, rotated, colored, animated etc. using CSS styles.
 
 ### Examples
-#### CH5 Framework
 * [Basic CH5 #1](https://github.com/Mirage-AV/Crestron-CH5-Basic)
   * Just has a couple of buttons that show a couple of sub pages
 * [Basic CH5 #2](https://github.com/Mirage-AV/Crestron-CH5-Basic-Buttons-Pages)
   * Basic CH5 project with selection buttons and triggerviews 
 * [Angular with CrComLib](https://github.com/jeff-vogt/crcomlib-ng)
   * Crestron's CrComLib with Angular
+* [Vue 3.0 CH5 Example](https://github.com/jeffderek/crestron-vue-simpl-example)
+  * Example of using Vue.js 3.0 on Crestron device
+* [Vue 3.0 CH5 Websockets](https://github.com/jeffderek/crestron-vue-websocket-example)
+  * Using Vue.js 3.0 with Websockets 
 * [Questron-CH5](https://github.com/danelewis/Questron-Ch5)
   * CH5 using the Quasar Component Framework (based on Vue.js)
 * [CH5-Keypad](https://github.com/Mirage-AV/CH5-Keypad)  
@@ -52,8 +55,6 @@ A collection of freely available community generated resources for working with 
   * Basic CH5 project with a similar style to Star Trek: Discovery ship UI
 * [Full CH5 Project](https://kielthecoder.com/2021/03/03/ch5-full-project/#more-2318)
   * Full walkthrough project using CH5
-  
-#### Vanilla JS
 * [Basic CH5 with Vanilla JS](https://github.com/CloudDrivenSolutions/CH5-Basic)
   * This example shows very basic usage of the Crestron Com Package with Vanilla JS
 
