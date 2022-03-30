@@ -26,6 +26,8 @@ A collection of freely available community generated resources for working with 
   * Project template and build pipeline for Crestron CH-5 apps using the Svelte framework, Rollup, and Eruda
 * [Create-React-App-Template-CH5-Typescript](https://github.com/avspltd/cra-template-ch5-typescript)
   * TypeScript template for Create React App and Crestron CH5
+* [Create-React-App-Template-CH5-Typescript](https://github.com/Norgate-AV-Solutions-Ltd/cra-template-crestron-ch5-typescript)
+  * TypeScript template for Create React App and Crestron CH5
 * [CH5-Vue](https://github.com/utroda/ch5-vue) 
   * Project starter for VueJS + Crestron Ch5 with Vue Router and Vuex
 * [CH5xWeb-Vue](https://github.com/jvallon/ch5-vue-demo)
