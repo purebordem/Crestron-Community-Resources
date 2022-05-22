@@ -19,6 +19,7 @@ A collection of freely available community generated resources for working with 
 * [Simpl#Pro Primer](https://kielthecoder.com/tag/primer/)
   * Multi-blog series on getting stared with Simpl#Pro 
 ### Videos
+* [React & SIMPL Sharp Pro Full Stack App](https://www.youtube.com/watch?v=tZL5xOCtf6Y)
 
 ## Front-End
 ### Frameworks/Templates
