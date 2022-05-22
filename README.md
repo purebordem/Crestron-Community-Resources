@@ -33,6 +33,8 @@ A collection of freely available community generated resources for working with 
 ### Modules
 * [Crestron-Fonts](https://github.com/alvaroyurrita/Crestron-Fonts)
   * SmartGraphics Theme Transport Icons turned into Vectorized Fonts. Can be infinitely enlarged, rotated, colored, animated etc. using CSS styles.
+* [Crestron-CH5-Helper](https://github.com/Norgate-AV-Solutions-Ltd/crestron-ch5-helper)
+  * A collection of Crestron CH5 constants.
 
 ### Examples
 * [Basic CH5 #1](https://github.com/Mirage-AV/Crestron-CH5-Basic)
