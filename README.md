@@ -20,6 +20,7 @@ A collection of freely available community generated resources for working with 
   * Multi-blog series on getting stared with Simpl#Pro 
 ### Videos
 * [React & SIMPL Sharp Pro Full Stack App](https://www.youtube.com/watch?v=tZL5xOCtf6Y)
+  * In-depth video including Simpl#Pro development 
 
 ## Front-End
 ### Frameworks/Templates
@@ -67,6 +68,7 @@ A collection of freely available community generated resources for working with 
 * [CH5 Zero to Hero](https://www.youtube.com/watch?v=yLsk4NZ5ZYc&t)
 * [CH5 Basic Walkthrough](https://www.youtube.com/watch?v=RphhQH5DOYo)
 * [React & SIMPL Sharp Pro Full Stack App](https://www.youtube.com/watch?v=tZL5xOCtf6Y)
+  * In-depth video with including React development with Crestron
 
 ## Scripting
 
